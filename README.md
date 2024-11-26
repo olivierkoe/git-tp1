@@ -10,4 +10,4 @@ Les caractéristique du Langage Java
 
 ### Documentation
 
-Lien vers la [color=#FF0000]documentation officielle[/color]: [documentation](https://github.com/DiginamicFormation/git-tp1/blob/main/resources/Template.png) </span>
+Lien vers la <span style="color=#FF0000">documentation officielle</span>: [documentation](https://github.com/DiginamicFormation/git-tp1/blob/main/resources/Template.png) </span>
